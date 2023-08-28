@@ -8,3 +8,7 @@ function sum(a, b) {
 function multiply(a,v){
     return a*v;
 }
+
+function divide(a,v){
+    return a*v;
+}
