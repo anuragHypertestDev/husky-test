@@ -5,7 +5,6 @@ console.log(a + b)
 const f = 'dfdf'
 const gd = 'dfdf'
 
-console.log(f + gd)
 
 
 const sd = 'dfdf'
