@@ -1,4 +1,5 @@
 #!/bin/sh
+  echo "executing pre commit hook"
 
 BASE_BRANCH="master"
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
